@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on Chao ZHOU</title>
+    <link>https://GangSirius.github.io/teaching/</link>
+    <description>Recent content in Courses on Chao ZHOU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2019 Chao ZHOU. All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://GangSirius.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Financial Time Series: Theory and Computation</title>
+      <link>https://GangSirius.github.io/teaching/time-series/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://GangSirius.github.io/teaching/time-series/</guid>
+      <description>Course Introduction This module introduces students to financial time series techniques, focusing primarily on ARIMA models, conditional volatility (ARCH/GARCH models), regime switching and nonlinear filtering, diverse nonlinear state models, co-integration, and their applications on real-life financial problems.
+We provide both the relevant time series concepts and their financial applications. Potential applications of financial time series models include modeling equity returns, volatility estimations, Value at Risk modelling and option valuation. This module targets honours students in the Quantitative Finance Programme and students in the Master of Science in Quantitative Finance Programme.</description>
+    </item>
+    
+    <item>
+      <title>MA4269: Mathematical Finance II</title>
+      <link>https://GangSirius.github.io/teaching/mathfin/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://GangSirius.github.io/teaching/mathfin/</guid>
+      <description>Course Introduction This course provides a clear understanding of the intuition behind derivatives pricing, how models are constructed, and how they are used and adapted in practice. Strengths and weaknesses of different models. Some important conceptions will be inclueded and tested: Black-Scholes, stochastic calculus, Martingale, exotic options, American options and Greeks.
+Both the theory and the practice of the industry-standard pricing models are considered in detail. Each pricing problem is approached using multiple techniques including the well-known PDE and a change of measure.</description>
+    </item>
+    
+    <item>
+      <title>MA5248: Stochastic Analysis in Mathematical Finance</title>
+      <link>https://GangSirius.github.io/teaching/stochastic/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://GangSirius.github.io/teaching/stochastic/</guid>
+      <description>Course Introduction This module is aimed at final year undergraduate students, master students and PhD students who want to continue with higher studies in Stochastic Analysis or Mathematical Finance or who want to work in the financial industry.
+It will introduce you some basic but important concepts, notations and theories of Stochastic Analysis and Mathematical Finance (e.g. Brownian Motion, Quadratic Variation, Stochastic Differential Equations, Ito’s Formula, Black-Scholes-Merton Formula, Financial Derivatives).</description>
+    </item>
+    
+    <item>
+      <title>QF5201: Interest Rate Theory and Credit Risk</title>
+      <link>https://GangSirius.github.io/teaching/rate/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://GangSirius.github.io/teaching/rate/</guid>
+      <description>Course Introduction Building on mathematical foundations of arbitrage pricing theory laid down in a first course on stochastic calculus for finance, this master level course addresses the modeling of the world’s bond markets, and the derivative securities associated with them. Bond markets are less transparent than equity markets, but have a total value about double that of equity markets, and a richer underlying structure.
+The whole course can be divided into two parts:  Credit risk</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://GangSirius.github.io/teaching/tmseries/lecture1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://GangSirius.github.io/teaching/tmseries/lecture1/</guid>
+      <description>Lecture1: An introduction to Rcode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://GangSirius.github.io/teaching/tmseries/lecture10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://GangSirius.github.io/teaching/tmseries/lecture10/</guid>
+      <description>Lecture10: RiskMetricscode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://GangSirius.github.io/teaching/tmseries/lecture11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://GangSirius.github.io/teaching/tmseries/lecture11/</guid>
+      <description>Lecture11: MTScode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://GangSirius.github.io/teaching/tmseries/lecture2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://GangSirius.github.io/teaching/tmseries/lecture2/</guid>
+      <description>Lecture2: Hypothesis Testingcode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://GangSirius.github.io/teaching/tmseries/lecture3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://GangSirius.github.io/teaching/tmseries/lecture3/</guid>
+      <description>Lecture3: Linear Regression Modelcode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://GangSirius.github.io/teaching/tmseries/lecture5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://GangSirius.github.io/teaching/tmseries/lecture5/</guid>
+      <description>Lecture5: AR Modelcode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://GangSirius.github.io/teaching/tmseries/lecture6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://GangSirius.github.io/teaching/tmseries/lecture6/</guid>
+      <description>Lecture6: ARMA Modelcode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://GangSirius.github.io/teaching/tmseries/lecture8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://GangSirius.github.io/teaching/tmseries/lecture8/</guid>
+      <description>Lecture8: ARCH Modelcode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://GangSirius.github.io/teaching/tmseries/lecture9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://GangSirius.github.io/teaching/tmseries/lecture9/</guid>
+      <description>Lecture9: GARCH Familycode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+    </item>
+    
+  </channel>
+</rss>
