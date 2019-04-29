@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Chao ZHOU</title>
-    <link>https://GangSirius.github.io/talk/</link>
+    <link>https://matzc.github.io/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Chao ZHOU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Chao ZHOU. All Rights Reserved.</copyright>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://GangSirius.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://matzc.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>THE 7TH INTERNATIONAL SYMPOSIUM ON BACKWARD STOCHASTIC DIFFERENTIAL EQUATIONS</title>
-      <link>https://GangSirius.github.io/talk/example/</link>
+      <link>https://matzc.github.io/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0800</pubDate>
       
-      <guid>https://GangSirius.github.io/talk/example/</guid>
+      <guid>https://matzc.github.io/talk/example/</guid>
       <description>An example talk using Academic&amp;rsquo;s Markdown slides feature.</description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seminars &amp; Conferences on Chao ZHOU</title>
-    <link>https://GangSirius.github.io/conference/</link>
+    <link>https://matzc.github.io/conference/</link>
     <description>Recent content in Seminars &amp; Conferences on Chao ZHOU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Chao ZHOU. All Rights Reserved.</copyright>
     <lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://GangSirius.github.io/conference/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://matzc.github.io/conference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Membership of conference committees</title>
-      <link>https://GangSirius.github.io/conference/member/</link>
+      <link>https://matzc.github.io/conference/member/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://GangSirius.github.io/conference/member/</guid>
+      <guid>https://matzc.github.io/conference/member/</guid>
       <description>Member of organizing committee for Quantitative Finance, 18 – 22 Mar, 2019 &amp;amp; 22 Jul – 31 Aug, 2019, held at Institute for Mathematical Sciences, National University of Singapore, Singapore.
  Member of organizing committee for The 7th Asian Quantitative Finance Conference (AQFC), 02 – 05 July, 2019, held at Vietnam Institute for Advanced Study in Mathematics, Hanoi, Vietnam.
  Member of organizing committee for Workshop Recent Developments in Mean-Field Game, Machine Learning and Quantitative Finance, Vietnam, Tuan Chau, May 2019</description>
@@ -25,10 +25,10 @@
     
     <item>
       <title>Organised Seminars &amp; Conferences</title>
-      <link>https://GangSirius.github.io/conference/organized/</link>
+      <link>https://matzc.github.io/conference/organized/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://GangSirius.github.io/conference/organized/</guid>
+      <guid>https://matzc.github.io/conference/organized/</guid>
       <description>Seminar on Quantitative Finance, by the Centre for Quantitative Finance NUS, from April 2014 site.
  Paris-Southeast Asia Conference in Mathematical Finance, jointly organized by the Centre for Quantitative Finance NUS, Institute of Technology of Cambodia, University of Evry and ENSIIE, and University Paris Diderot, Siem Reap, Cambodia, 7-11 February 2015 site.
  Second Paris-Asia Conference in Quantitative Finance, jointly organized by the Centre for Quantitative Finance, Institute of Real Estate Studies and Risk Management Institute NUS, University of Evry and ENSIIE, and University Paris Dauphine, Suzhou, China, 23-27 May 2017 site.</description>
