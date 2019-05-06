@@ -244,7 +244,7 @@ structure.&lt;/p&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Interest Rate Modeling-Theory and Practice&lt;/em&gt;&lt;/strong&gt; by Lixin Wu&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Term-Structure Models&lt;/em&gt;&lt;/strong&gt; by Damir Filipovi´c&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Term-Structure Models&lt;/em&gt;&lt;/strong&gt; by Damir Filipovic&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Interest Rate Models-Theory and Practice&lt;/em&gt;&lt;/strong&gt; by Damiano Brigo and Fabio Mercurio&lt;/p&gt;&lt;/li&gt;
 
@@ -339,25 +339,25 @@ structure.&lt;/p&gt;
       
       <guid>https://matzc.github.io/publication/preprints/</guid>
       <description>&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Portfolio diversification and model uncertainty: a robust dynamic mean-variance approach&lt;/strong&gt;, with H. PHAM and X. WEI, 2018. Under revision.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Portfolio diversification and model uncertainty: a robust dynamic mean-variance approach&lt;/strong&gt;, with H. PHAM and X. WEI, arXiv:1809.01464, 2018. &lt;a href=&#34;https://arxiv.org/pdf/1809.01464.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;. Under revision.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Bank monitoring incentives under moral hazard and adverse selection&lt;/strong&gt;, joint work with N. Hernandez and D. Revised and resubmitted. &lt;a href=&#34;http://arxiv.org/pdf/1701.05864.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Bank monitoring incentives under moral hazard and adverse selection&lt;/strong&gt;, joint work with N. Hernandez and D. Possamai, arXiv:1701.05864, 2017. &lt;a href=&#34;https://arxiv.org/pdf/1701.05864.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;. Revised and resubmitted.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;BSDEs with weak reflections and partial hedging of American options&lt;/strong&gt;, joint work with R. Dumitrescu, R. Elie and W. Sabbagh. &lt;a href=&#34;http://arxiv.org/pdf/1708.05957.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;BSDEs with weak reflections and partial hedging of American options&lt;/strong&gt;, joint work with R. Dumitrescu, R. Elie and W. Sabbagh, arXiv:1708.05957, 2017. &lt;a href=&#34;https://arxiv.org/pdf/1708.05957.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;A Binary Nature of Funding Impacts in Bilateral Contracts&lt;/strong&gt;, joint work with J. Lee, arXiv:1703.00259, 2018. Submitted.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;A Binary Nature of Funding Impacts in Bilateral Contracts&lt;/strong&gt;, joint work with J. Lee, arXiv:1703.00259, 2018. &lt;a href=&#34;https://arxiv.org/pdf/1703.00259.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;. Submitted.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;A Risk-Sharing Framework of Bilateral Contracts&lt;/strong&gt;, joint work with J. Lee, S. Sturm, arxiv:1901.03874, 2019. Submitted.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;A Risk-Sharing Framework of Bilateral Contracts&lt;/strong&gt;, joint work with J. Lee, S. Sturm, arxiv:1901.03874, 2019. &lt;a href=&#34;https://arxiv.org/pdf/1901.03874.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;. Submitted.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;On dynamic programming principle for stochastic control under expectation constraints&lt;/strong&gt;, with Yu, X., Zhou, Y., 2018, arXiv:1802.03954. In-preparation for submission.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;On dynamic programming principle for stochastic control under expectation constraints&lt;/strong&gt;, with Yu, X., Zhou, Y., arXiv:1802.03954, 2018. &lt;a href=&#34;https://arxiv.org/pdf/1802.03954.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;. In-preparation for submission.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Investment Decisions and Falling Cost of Data Analytics&lt;/strong&gt;, Keppo, J., Tan, H.M., 2018, SSRN: 3141043. Submitted.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Investment Decisions and Falling Cost of Data Analytics&lt;/strong&gt;, Keppo, J., Tan, H.M., SSRN: 3141043, 2018. &lt;a href=&#34;https://poseidon01.ssrn.com/delivery.php?ID=406105097031080071031094094070098030017003038044067033122100111102093026124086029007007019055119006003021108113009095117110001030087011040086066117100120126088124107018022032074119120115027114069092123127068119004098089094006005098099092105103085083069&amp;amp;EXT=pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;. Submitted.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Second order stochastic target problems with generalized market impact&lt;/strong&gt;, joint work with B. Bouchard, G. Loeper and H. M. Soner 2018, arXiv: 1806.08533. Revised and resubmitted.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Second order stochastic target problems with generalized market impact&lt;/strong&gt;, joint work with B. Bouchard, G. Loeper and H. M. Soner, arXiv: 1806.08533,  2018. &lt;a href=&#34;https://arxiv.org/pdf/1806.08533.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;. Revised and resubmitted.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;The Alpha-Heston Stochastic Volatility Model&lt;/strong&gt;, joint work with Y. Jiao, C. Ma, and S. Scotti, arXiv:1812.01914, 2018. Submitted.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;The Alpha-Heston Stochastic Volatility Model&lt;/strong&gt;, joint work with Y. Jiao, C. Ma, and S. Scotti, arXiv:1812.01914, 2018. &lt;a href=&#34;https://arxiv.org/pdf/1812.01914.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;. Submitted.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Forward Investment Performance Processes in Semimartingale Financial Markets&lt;/strong&gt;, joint work with L. Bo and A. Capponi, arXiv:1811.11899, 2018. Submitted.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Forward Investment Performance Processes in Semimartingale Financial Markets&lt;/strong&gt;, joint work with L. Bo and A. Capponi, arXiv:1811.11899, 2018. &lt;a href=&#34;https://arxiv.org/pdf/1811.11899.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;. Submitted.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Deep Learning Algorithm to solve Portfolio Management with Proportional Transaction Cost&lt;/strong&gt;, joint work with W. Zhang. Accepted for presentation for IEEE Conference on Computational Intelligence for Financial Engineering and Economics 2019.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
