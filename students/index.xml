@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Students List on Chao ZHOU</title>
+    <link>https://matzc.github.io/students/</link>
+    <description>Recent content in Students List on Chao ZHOU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2019 Chao ZHOU. All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://matzc.github.io/students/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Junbeom Lee</title>
+      <link>https://matzc.github.io/students/junbeom/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://matzc.github.io/students/junbeom/</guid>
+      <description> Bio I am a research fellow working with the Department of Mathematics in the National University of Singapore.
+I received my Ph.D. in 2018 on my thesis about XVA. Before I started my Ph.D. program, I had worked for a finance company as a quant for 2 years.
+My Info  Email: junbeoml22@gmail.com Github LinkedIn CV  </description>
+    </item>
+    
+    <item>
+      <title>Meixia LIN</title>
+      <link>https://matzc.github.io/students/meixia/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://matzc.github.io/students/meixia/</guid>
+      <description> 
+Bio Ph.D student in Department of Mathematics, under the supervision of Kim-Chuan TOH and Chao ZHOU.
+My Info  Email: lin_meixia@u.nus.edu
+ CV
+  </description>
+    </item>
+    
+    <item>
+      <title>Tan Hong Ming</title>
+      <link>https://matzc.github.io/students/hongming/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://matzc.github.io/students/hongming/</guid>
+      <description>Bio I am a PhD candidate at the Institute of Operations Research and Analytics, IORA, NUS.
+My research interest is decision making under uncertainty, bayesian learning, pricing revenue management, and sport analytics.
+I am interested to learn about the optimal actions people or companies should take when faced with uncertainty about the consequences of events. I mainly use analytical models to approach my research questions.
+My Info  Email: thm@u.</description>
+    </item>
+    
+    <item>
+      <title>Weiwei ZHANG</title>
+      <link>https://matzc.github.io/students/weiwei/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://matzc.github.io/students/weiwei/</guid>
+      <description> My Info 
+ Email: e0046913@u.nus.edu
+ CV
+  </description>
+    </item>
+    
+    <item>
+      <title>Xizhi Su</title>
+      <link>https://matzc.github.io/students/xizhi/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://matzc.github.io/students/xizhi/</guid>
+      <description>Bio I am a PhD student at the National University of Singapore. My advisors are Dr. Chao Zhou and Prof Min Dai.
+My current research projects are portfolio optimization under information frictions and singular controls applied in finance. I am also interested in applications of deep neural networks.
+Before coming to Singapore, I have completed a Master’s degree from Part III at Cambridge University. My essay advisor was Professor Frank P.</description>
+    </item>
+    
+  </channel>
+</rss>
