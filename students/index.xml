@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Chao ZHOU. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://matzc.github.io/students/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mengge LI</title>
+      <link>https://matzc.github.io/students/mengge/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://matzc.github.io/students/mengge/</guid>
+      <description> 
+Bio I am a PhD candidate at the National University of Singapore, under the supervision of Dr. Chao ZHOU.
+My Info  Email: li.mengge@u.nus.edu
+ CV
+  </description>
+    </item>
     
     <item>
       <title>Junbeom Lee</title>
