@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Chao ZHOU. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://matzc.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,9 +30,10 @@
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0800</pubDate>
       
       <guid>https://matzc.github.io/publication/preprints/</guid>
-      <description>Portfolio diversification and model uncertainty: a robust dynamic mean-variance approach, with H. PHAM and X. WEI, arXiv:1809.01464, 2018. PDF. Revised and resubmitted.
- Bank monitoring incentives under moral hazard and adverse selection, joint work with N. Hernandez and D. Possamai, arXiv:1701.05864, 2017. PDF. Revised and resubmitted.
- BSDEs with weak reflections and partial hedging of American options, joint work with R. Dumitrescu, R. Elie and W. Sabbagh, arXiv:1708.05957, 2017. PDF</description>
+      <description>Lifetime Ruin Problem Under High-watermark Fees and Drift Uncertainty, with J. Lee and X. Yu, arXiv:1909.01121, 2019, PDF. Submitted.
+ Power Forward Performance in Semimartingale Markets with Stochastic Integrated Factors, with L. Bo and A. Capponi, arXiv:1811.11899, 2020. PDF. Submitted.
+ Horizon-unbiased Investment with Ambiguity, with Q. Lin and X. Sun, SSRN: 3377772, 2019. PDF. Revised and resubmitted.
+ BSDEs with weak reflections and partial hedging of American options, joint work with R.</description>
     </item>
     
   </channel>
