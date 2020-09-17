@@ -10,573 +10,273 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>THE 7TH INTERNATIONAL SYMPOSIUM ON BACKWARD STOCHASTIC DIFFERENTIAL EQUATIONS</title>
-      <link>https://matzc.github.io/talk/example/</link>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://matzc.github.io/talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0800</pubDate>
       
-      <guid>https://matzc.github.io/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    
-Click on the **Slides** button above to view the built-in slides feature.
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://matzc.github.io/talk/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Preprints</title>
-      <link>https://matzc.github.io/publication/preprints/</link>
+      <title>Research Fellows</title>
+      <link>https://matzc.github.io/researcher/</link>
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0800</pubDate>
       
-      <guid>https://matzc.github.io/publication/preprints/</guid>
+      <guid>https://matzc.github.io/researcher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://matzc.github.io/publication/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://matzc.github.io/publication/</guid>
       <description>&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Lifetime Ruin Problem Under High-watermark Fees and Drift Uncertainty&lt;/strong&gt;, with J. Lee and X. Yu, arXiv:1909.01121, 2019. &lt;a href=&#34;https://arxiv.org/pdf/1909.01121&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;. Submitted.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Power Forward Performance in Semimartingale Markets with Stochastic Integrated Factors&lt;/strong&gt;, with L. Bo and A. Capponi, arXiv:1811.11899, 2020. &lt;a href=&#34;https://arxiv.org/pdf/1811.11899&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;. Submitted.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;BSDEs with weak reflections and partial hedging of American options&lt;/strong&gt;, joint work with R. Dumitrescu, R. Elie and W. Sabbagh, arXiv:1708.05957, 2017. &lt;a href=&#34;https://arxiv.org/pdf/1708.05957.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;. Submitted&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;SelectNet: Self-Paced Learning for High-Dimensional Partial Differential Equations&lt;/strong&gt;, with Y. Gu and H. Yang, arXiv:2001.04860, 2020. &lt;a href=&#34;https://arxiv.org/pdf/2001.04860&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;. Submitted.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;The Alpha-Heston Stochastic Volatility Model&lt;/strong&gt;, with Y. Jiao, C. Ma, and S. Scotti, arXiv:1812.01914, 2018. &lt;a href=&#34;https://arxiv.org/pdf/1812.01914.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;. Revised and resubmitted.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Smart City Investments&lt;/strong&gt;, with Keppo, J., and Tan, H.M., SSRN: 3141043, 2019. Submitted.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Portfolio diversification and model uncertainty: a robust dynamic mean-variance approach&lt;/strong&gt;, with H. Pham and X. Wei, hal-01867133v2, 2019. &lt;a href=&#34;https://arxiv.org/pdf/1809.01464.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;. Submitted.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Portfolio liquidation under factor uncertainty&lt;/strong&gt;, joint work with Horst U, Xia X, arXiv:1909.00748, 2020. &lt;a href=&#34;https://arxiv.org/pdf/1909.00748.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;. Submitted&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Gambling for resurrection and the heat equation on a triangle&lt;/strong&gt;, with S. Ankirchner, C. Blanchet-Scalliet, and N. Kazi-Tani, hal-02405853, 2019. &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02405853/file/Ankirchner%2C%20Blanchet-Scalliet%2C%20Kazi-Tani%2C%20Zhou.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;. Submitted.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Mean Field Exponential Utility Game: A Probabilistic Approach&lt;/strong&gt;, with G, Fu and X. Su, arXiv:2006.07684, 2020, &lt;a href=&#34;https://arxiv.org/abs/2006.07684&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;. Submitted&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Relative wealth concerns with partial information and heterogeneous priors&lt;/strong&gt;, with C. Deng and X. Su, arXiv:2007.11781, 2020, &lt;a href=&#34;https://arxiv.org/abs/2007.11781&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;. Submitted&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;D. Possamaï and C. Zhou (2013). &lt;strong&gt;Second Order Backward Stochastic Differential Equations with Quadratic Growth&lt;/strong&gt;. Stochastic Processes and their Applications, 123(10):3770-3799. arXiv:1201.1050v2 &lt;a href=&#34;https://arxiv.org/pdf/1201.1050v2.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A. Matoussi, D. Possamaï and C. Zhou (2013). &lt;strong&gt;Second Order Reflected Backward Stochastic Differential Equations&lt;/strong&gt;. The Annals of Applied Probability, 23(6):2420-2457. arXiv:1201.0746v1 &lt;a href=&#34;http://arxiv.org/pdf/1201.0746v1.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2&amp;rsquo;. Matoussi, A., Possamaï, D. and C. Zhou (2017). Corrigendum for &lt;strong&gt;&amp;ldquo;Second-order reflected backward stochastic differential equations&amp;rdquo;&lt;/strong&gt; and &lt;strong&gt;&amp;ldquo;Second-order BSDEs with general reflection and game options under uncertainty&amp;rdquo;&lt;/strong&gt;, arXiv preprint, arXiv:1706.08588, &lt;a href=&#34;https://arxiv.org/pdf/1706.08588.pdf&#34;&gt;PDF&lt;/a&gt;, submitted.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A. Matoussi, D. Possamaï and C. Zhou (2015). &lt;strong&gt;Robust Utility Maximization in Non-dominated Models with 2BSDEs&lt;/strong&gt;. Mathematical Finance, 25(2): 258-287. arXiv:1201.0769v2 &lt;a href=&#34;https://arxiv.org/pdf/1201.0769v2.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;N. Kazi-Tani and D. Possamaï and C. Zhou (2015). &lt;strong&gt;Second Order Backward Stochastic Differential Equations with Jumps: Formulation and Uniqueness&lt;/strong&gt;. The Annals of Applied Probability, 25(5)2867-2908. arXiv:1208.0757 &lt;a href=&#34;http://arxiv.org/pdf/1208.0757.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;N. Kazi-Tani and D. Possamaï and C. Zhou(2015). &lt;strong&gt;Second Order Backward Stochastic Differential Equations with Jumps: Existence and Probabilistic Representation for fully-nonlinear PIDEs&lt;/strong&gt;. Electronic Journal of Probability, 20(65):1-31. arXiv:1208.0763 &lt;a href=&#34;http://arxiv.org/pdf/1208.0763.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A. Matoussi, W. Sabbagh. and C. Zhou (2015). &lt;strong&gt;The obstacle problem for semilinear parabolic partial integro-differential equations&lt;/strong&gt;. Stochastics and Dynamics, 15(01)-1550007. arXiv:1307.0875v2 &lt;a href=&#34;http://arxiv.org/abs/1307.0875v2.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;N. Kazi-Tani and D. Possamaï and C. Zhou(2015). &lt;strong&gt;Quadratic BSDEs with jumps: a fixed point approach&lt;/strong&gt;. Electronic Journal of Probability, 20(66):1-28. arXiv:1208.5581 &lt;a href=&#34;http://arxiv.org/pdf/1208.5581.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;N. Kazi-Tani and D. Possamaï and C. Zhou(2016). &lt;strong&gt;Quadratic BSDEs with jumps: Related Non-linear Expectations&lt;/strong&gt;. Stochastics and Dynamics, 16(4)-1650012. arXiv:1403.2730 &lt;a href=&#34;http://arxiv.org/pdf/1403.2730.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Y. Armenti, S. Crepey and C. Zhou (2017). &lt;strong&gt;The Sustainable Black-Scholes Equations&lt;/strong&gt;. In: Londoño J., Garrido J., Jeanblanc M. (eds) Actuarial Sciences and Quantitative Finance. ICASQF 2016. Springer Proceedings in Mathematics &amp;amp; Statistics, vol 214: 155-167. &lt;a href=&#34;http://www.math.nus.edu.sg/~matzc/Sustainable.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;B. Bouchard, D. Possamaï, X. Tan and C. Zhou (2016). &lt;strong&gt;A unified approach to a priori estimates for supersolutions of BSDEs in general filtrations&lt;/strong&gt;. Annales de l&amp;rsquo;Institut Henri Poincare (B), to appear. arXiv:1403.2730 &lt;a href=&#34;http://arxiv.org/pdf/1403.2730.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;D. Possamaï, X. Tan and C. Zhou (2018). &lt;strong&gt;Stochastic control for a class of nonlinear kernels and applications&lt;/strong&gt;. The Annals of Probability, 46(1):551-603. arXiv:1510.08439 &lt;a href=&#34;http://arxiv.org/pdf/1510.08439v1.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yang, Z., Liang, G. and C. Zhou (2019). &lt;strong&gt;Constrained portfolio-consumption strategies with uncertain parameters and borrowing costs&lt;/strong&gt;, Mathematics and Financial Economics, 13(3):393-427. &lt;a href=&#34;https://doi.org/10.1007/s11579-018-0232-5&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A. Popier and C. Zhou (2018). &lt;strong&gt;Second order BSDE under monotonicity condition and liquidation problem under uncertainty&lt;/strong&gt;. The Annals of Applied Probability, 29(3), 1685-1739, arXiv:1712.10253v1. &lt;a href=&#34;http://arxiv.org/pdf/1712.10253.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bouchard, B., Loeper, G., Soner, H. M., &amp;amp; Zhou, C. (2019). &lt;strong&gt;Second-Order Stochastic Target Problems with Generalized Market Impact&lt;/strong&gt;. SIAM Journal on Control and Optimization, 57(6), 4125-4149. &lt;a href=&#34;https://arxiv.org/pdf/1806.08533.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Zhang, W., &amp;amp; Zhou, C. (2019). &lt;strong&gt;Deep learning algorithm to solve portfolio management with proportional transaction cost&lt;/strong&gt;. In CIFEr 2019 - IEEE Conference on Computational Intelligence for Financial Engineering and Economics, 2019, &lt;a href=&#34;https://ieeexplore.ieee.org/document/8759056&#34;&gt;available online&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Santibáñez, N. H., Possamaï, D., &amp;amp; Zhou, C. (2020). &lt;strong&gt;Bank monitoring incentives under moral hazard and adverse selection&lt;/strong&gt;. Journal of Optimization Theory and Applications, 184(3):988-1035. &lt;a href=&#34;https://arxiv.org/pdf/1701.05864.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lee, J., Sturm, S., &amp;amp; Zhou, C. (2020). &lt;strong&gt;A Risk-Sharing Framework of Bilateral Contracts&lt;/strong&gt;. SIAM Journal on Financial Mathematics, 11(2), 385–410. &lt;a href=&#34;https://arxiv.org/pdf/1901.03874.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lin, Q., Sun, X. &amp;amp; Zhou, C. (2020). &lt;strong&gt;Horizon-unbiased Investment with Ambiguity&lt;/strong&gt;. Journal of Economic Dynamics and Control, 114, 103896. &lt;a href=&#34;https://doi.org/10.1016/j.jedc.2020.103896&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chow, Y., Yu, X. &amp;amp; Zhou, C. (2020). &lt;strong&gt;On dynamic programming principle for stochastic control under expectation constraints&lt;/strong&gt;. Journal of Optimization Theory and Applications, 185, 803–818(2020). &lt;a href=&#34;https://link.springer.com/article/10.1007/s10957-020-01673-2&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lee, J. &amp;amp; Zhou, C. (2020) &lt;strong&gt;Binary Funding Impacts in Derivative Valuation&lt;/strong&gt;. Accepted in Mathematical Finance. &lt;a href=&#34;https://arxiv.org/pdf/1703.00259&#34;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
     
     <item>
-      <title>Yiqi GU</title>
-      <link>https://matzc.github.io/researcher/yiqi/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0800</pubDate>
-      
-      <guid>https://matzc.github.io/researcher/yiqi/</guid>
-      <description>
-
-&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;
-
-&lt;p&gt;Currently, I am a Research Fellow at National University of Singapore, working with the Department of Mathematics. My research focuses on deep learning-based methods for partial differential equations.&lt;/p&gt;
-
-&lt;p&gt;I received my Ph.D. in 2019 at Purdue University (in US) on my thesis about spectral methods for PDEs in complex domains. Before I started my Ph.D. program, I had received a Bachelor degree in Zhejiang University (in China) and a Master degree in University of Washington (in US).&lt;/p&gt;
-
-&lt;h2 id=&#34;my-info&#34;&gt;My Info&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Work Email&lt;/strong&gt;: matguy@nus.edu.sg&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Personal Email&lt;/strong&gt;: yiqigu1989@gmail.com&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://matzc.github.io/files/Gu_Yiqi_CV.pdf&#34;&gt;CV&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Guanxing FU</title>
-      <link>https://matzc.github.io/researcher/guanxing/</link>
-      <pubDate>Tue, 18 Feb 2020 00:00:00 +0800</pubDate>
-      
-      <guid>https://matzc.github.io/researcher/guanxing/</guid>
-      <description>
-
-&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;
-
-&lt;p&gt;Currently I am a &lt;strong&gt;Research Fellow&lt;/strong&gt; in National University of Singapore. Here I am working on mean field games, stochastic control and mathematical finance.&lt;/p&gt;
-
-&lt;p&gt;I obtained my PhD degree from Humboldt-Universität zu Berlin in 2018. My PhD thesis focuses on mean field games arising in optimal portfolio liquidation, mean field games with singular controls as well as BSPDEs.&lt;/p&gt;
-
-&lt;h2 id=&#34;my-info&#34;&gt;My Info&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Work Email&lt;/strong&gt;: matfg@nus.edu.sg&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Personal Email&lt;/strong&gt;: fuguanxing725@gmail.com&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://matzc.github.io/files/guanxing.pdf&#34;&gt;CV&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mengge LI</title>
-      <link>https://matzc.github.io/students/mengge/</link>
+      <title>Students List</title>
+      <link>https://matzc.github.io/students/</link>
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0800</pubDate>
       
-      <guid>https://matzc.github.io/students/mengge/</guid>
-      <description>
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://matzc.github.io/img/Limengge.jpg&#34; alt=&#34;drawing&#34; width=&#34;120&#34; align=&#34;right&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;I am a PhD candidate at the National University of Singapore, under the supervision of Dr. Chao ZHOU.&lt;/p&gt;
-
-&lt;h2 id=&#34;my-info&#34;&gt;My Info&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: li.mengge@u.nus.edu&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://matzc.github.io/files/Limengge.pdf&#34;&gt;CV&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://matzc.github.io/students/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Junbeom Lee</title>
-      <link>https://matzc.github.io/students/junbeom/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://matzc.github.io/students/junbeom/</guid>
-      <description>
-
-&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://matzc.github.io/img/junbeom.png&#34; alt=&#34;drawing&#34; width=&#34;150&#34; align=&#34;right&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;Currently, I am a &lt;strong&gt;Quant Trader&lt;/strong&gt; at &lt;strong&gt;Yuanta Securities&lt;/strong&gt;(Seoul, South Korea)&lt;/p&gt;
-
-&lt;p&gt;I was a &lt;strong&gt;research fellow&lt;/strong&gt; working with the Department of Mathematics in the National University of Singapore.&lt;/p&gt;
-
-&lt;p&gt;I received my Ph.D. in 2018 on my thesis about XVA.
-  Before I started my Ph.D. program, I had worked for a finance company as a
-  quant for 2 years.&lt;/p&gt;
-
-&lt;h2 id=&#34;my-info&#34;&gt;My Info&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;:  junbeoml22@gmail.com&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/JunbeomL22/BSDE-engine&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.linkedin.com/in/junbeoml22&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://matzc.github.io/files/cv.junbeom.pdf&#34;&gt;CV&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Meixia LIN</title>
-      <link>https://matzc.github.io/students/meixia/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://matzc.github.io/students/meixia/</guid>
-      <description>
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://matzc.github.io/img/LinMeixia.jpg&#34; alt=&#34;drawing&#34; width=&#34;120&#34; align=&#34;right&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;Ph.D student in Department of Mathematics,
-under the supervision of Kim-Chuan TOH and Chao ZHOU.&lt;/p&gt;
-
-&lt;h2 id=&#34;my-info&#34;&gt;My Info&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: lin_meixia@u.nus.edu&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://matzc.github.io/files/LinMeixia_CV.pdf&#34;&gt;CV&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tan Hong Ming</title>
-      <link>https://matzc.github.io/students/hongming/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://matzc.github.io/students/hongming/</guid>
-      <description>
-
-&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://matzc.github.io/img/thm2.jpg&#34; alt=&#34;drawing&#34; width=&#34;150&#34; align=&#34;right&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;I am a PhD candidate at the &lt;a href=&#34;http://iora.nus.edu.sg/&#34; target=&#34;_blank&#34;&gt;Institute of Operations Research and Analytics&lt;/a&gt;, IORA, NUS.&lt;/p&gt;
-
-&lt;p&gt;My research interest is decision making under uncertainty, bayesian learning, pricing revenue management, and sport analytics.&lt;/p&gt;
-
-&lt;p&gt;I am interested to learn about the optimal actions people or companies should take when faced with uncertainty about the consequences of events. I mainly use analytical models to approach my research questions.&lt;/p&gt;
-
-&lt;h2 id=&#34;my-info&#34;&gt;My Info&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: thm@u.nus.edu&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://thm.sg&#34; target=&#34;_blank&#34;&gt;HomePage&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://matzc.github.io/files/CV_Tan_Hong_Ming.pdf&#34;&gt;CV&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Weiwei ZHANG</title>
-      <link>https://matzc.github.io/students/weiwei/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://matzc.github.io/students/weiwei/</guid>
-      <description>
-
-&lt;h2 id=&#34;my-info&#34;&gt;My Info&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://matzc.github.io/img/zww.jpg&#34; alt=&#34;drawing&#34; width=&#34;200&#34; align=&#34;right&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: e0046913@u.nus.edu&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://matzc.github.io/files/cv_zww.pdf&#34;&gt;CV&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Xizhi Su</title>
-      <link>https://matzc.github.io/students/xizhi/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://matzc.github.io/students/xizhi/</guid>
-      <description>
-
-&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://matzc.github.io/img/xz.jpg&#34; alt=&#34;drawing&#34; width=&#34;150&#34; align=&#34;right&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;I am a PhD student at the National University of Singapore. My advisors are Dr. Chao Zhou and Prof Min Dai.&lt;/p&gt;
-
-&lt;p&gt;My current research projects are portfolio optimization under information frictions and singular controls applied in finance.
-I am also interested in applications of deep neural networks.&lt;/p&gt;
-
-&lt;p&gt;Before coming to Singapore, I have completed a Master’s degree from Part III at Cambridge University. My essay advisor was Professor Frank P. Kelly.&lt;/p&gt;
-
-&lt;p&gt;I have done several industrial projects related to my other professional interests.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;In quantitative trading&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;machine-learning-based stock selection and timing;&lt;/li&gt;
-&lt;li&gt;algorithmic trading for cryptocurrencies.&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;In risk management&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;credit rating models based on KMV.&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;In fundamental analysis&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;industrial analysis during an intern for Societe Generale in the summer of my Sophomore year. Other equity analysis.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Hobbies&lt;/strong&gt;: Running, music, tennis, piano..&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt;: Besides Chinese and English, I can read in Italian.&lt;/p&gt;
-
-&lt;h2 id=&#34;my-info&#34;&gt;My Info&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: suxizhi@u.nus.edu&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://matzc.github.io/files/cv_su_0419.pdf&#34;&gt;CV&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Financial Time Series: Theory and Computation</title>
-      <link>https://matzc.github.io/teaching/time-series/</link>
+      <title>Courses</title>
+      <link>https://matzc.github.io/teaching/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://matzc.github.io/teaching/time-series/</guid>
-      <description>
-
-&lt;h2 id=&#34;course-introduction&#34;&gt;Course Introduction&lt;/h2&gt;
-
-&lt;p&gt;This module introduces students to financial time series techniques, focusing primarily on ARIMA models, conditional volatility (ARCH/GARCH models), regime switching and nonlinear filtering, diverse nonlinear state models, co-integration, and their applications on real-life financial problems.&lt;/p&gt;
-
-&lt;p&gt;We provide both the relevant time series concepts and their financial applications. Potential applications of financial time series models include modeling equity returns, volatility estimations, Value at Risk modelling and option valuation. This module targets honours students in the Quantitative Finance Programme and students in the Master of Science in Quantitative Finance Programme.&lt;/p&gt;
-
-&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Intro : R, proba &amp;amp; stats&lt;/li&gt;
-&lt;li&gt;Linear regression&lt;/li&gt;
-&lt;li&gt;Logit and probit models&lt;/li&gt;
-&lt;li&gt;Regression models&lt;/li&gt;
-&lt;li&gt;Univariate time series models&lt;/li&gt;
-&lt;li&gt;ARIMA modelling&lt;/li&gt;
-&lt;li&gt;ARCH modelling&lt;/li&gt;
-&lt;li&gt;GARCH modelling&lt;/li&gt;
-&lt;li&gt;Nonlinear models&lt;/li&gt;
-&lt;li&gt;Risk measures and risk management&lt;/li&gt;
-&lt;li&gt;Risk measures and multivariate TS&lt;/li&gt;
-&lt;li&gt;Multivariate TS and co-integration&lt;/li&gt;
-&lt;li&gt;Review&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://matzc.github.io/tmseries/Rintroduction.pdf&#34;&gt;R Introduction&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Analysis of Financial Time Series&lt;/em&gt;&lt;/strong&gt;, 3rd Edition, Ruey S. Tsay, Wiley, 2010. Chapters 1-4, 7, 8, 10.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Statistics and Data Analysis for Financial Engineering&lt;/em&gt;&lt;/strong&gt;, David Ruppert, Springer, 2010. Chapters 2, 4, 5, 7, 9, 10, 12, 14, 15, 18, 19.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Introductory Econometrics for Finance&lt;/em&gt;&lt;/strong&gt;, 2nd Edition, Chris Brooks, Cambridge University Press, 2008.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;programming-language&#34;&gt;Programming Language&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;R Language&lt;/strong&gt; + &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://matzc.github.io/tmseries/lecture1.html&#34;&gt;Lecture1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://matzc.github.io/tmseries/lecture2.html&#34;&gt;Lecture2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://matzc.github.io/tmseries/lecture3.html&#34;&gt;Lecture3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Lecture4: Quiz&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://matzc.github.io/tmseries/lecture5.html&#34;&gt;Lecture5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://matzc.github.io/tmseries/lecture6.html&#34;&gt;Lecture6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Lecture7: Quiz&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://matzc.github.io/tmseries/lecture8.html&#34;&gt;Lecture8&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://matzc.github.io/tmseries/lecture9.html&#34;&gt;Lecture9&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://matzc.github.io/tmseries/lecture10.html&#34;&gt;Lecture10&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://matzc.github.io/tmseries/lecture11.html&#34;&gt;Lecture11&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Lecture1(the file is updated in April 2019): for digital asset, the APIs for getting cryptocurrency are unavailable for package &lt;em&gt;coinmarketr&lt;/em&gt; from March 2020.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MA4269: Mathematical Finance II</title>
-      <link>https://matzc.github.io/teaching/mathfin/</link>
-      <pubDate>Fri, 19 Apr 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://matzc.github.io/teaching/mathfin/</guid>
-      <description>
-
-&lt;h2 id=&#34;course-introduction&#34;&gt;Course Introduction&lt;/h2&gt;
-
-&lt;p&gt;This course provides a clear understanding of the intuition behind derivatives pricing, how models are constructed, and how they are used and adapted in practice. Strengths and weaknesses of different models. Some important conceptions will be inclueded and tested: Black-Scholes, stochastic calculus, Martingale, exotic options, American options and Greeks.&lt;/p&gt;
-
-&lt;p&gt;Both the theory and the practice of the industry-standard pricing models are considered in detail. Each pricing problem is approached using multiple techniques including the well-known PDE and a change of measure.&lt;/p&gt;
-
-&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Review and introduction: assets, portfolio, no-arbitrage, forward contracts, options, binomial model&lt;/li&gt;
-&lt;li&gt;Stochastic calculus: Itˆo’s Lemma, geometric brownian motion&lt;/li&gt;
-&lt;li&gt;Black-Scholes PDE, delta-hedging&lt;/li&gt;
-&lt;li&gt;Martingale pricing: Radon-Nikodym derivative, Girsanov’s theorem, risk-neutral valuation, Black-Scholes formula, change of numeraire&lt;/li&gt;
-&lt;li&gt;American options: optimal exercise boundary, linear complementarity problem, free boundary problem, optimal stopping problem, perpetual american put&lt;/li&gt;
-&lt;li&gt;Barrier options&lt;/li&gt;
-&lt;li&gt;Asian options&lt;/li&gt;
-&lt;li&gt;Lookback options&lt;/li&gt;
-&lt;li&gt;Multi-asset options: multi-dimensional Itˆo&amp;rsquo;s lemma, exchange options, cross-currency options, muti-dimensonal Black-Scholes market.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;The Mathematics of Financial Derivatives: A Student Introduction.&lt;/em&gt;&lt;/strong&gt;&lt;a href=&#34;http://www.amazon.com/The-Mathematics-Financial-Derivatives-Introduction/dp/ 0521497892&#34; target=&#34;_blank&#34;&gt;see here&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Options, Futures, and Other Derivatives&lt;/em&gt;&lt;/strong&gt;,  9th Edition. &lt;a href=&#34;http://www.amazon.com/Options-Futures-Other-Derivatives-9th/dp/0133456315/&#34; target=&#34;_blank&#34;&gt;see here&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Lecture notes of Prof. Touzi and Prof. Tankov at ´Ecole Polytechnique (technical)&lt;/em&gt;&lt;/strong&gt;. &lt;a href=&#34;http://www.cmap.polytechnique.fr/%7Etouzi/Poly-MAP552.pdf&#34; target=&#34;_blank&#34;&gt;see here&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;preliminary-knowledge&#34;&gt;Preliminary knowledge&lt;/h2&gt;
-
-&lt;p&gt;You should be familiar with basic concepts of financial derivatives though we will review them in the first lecture. A good introduction is one of the recommended book by John Hull: Options, Futures, and Other Derivatives. You must also have some basic knowledge in multivariable calculus and probability.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MA5248: Stochastic Analysis in Mathematical Finance</title>
-      <link>https://matzc.github.io/teaching/stochastic/</link>
-      <pubDate>Fri, 19 Apr 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://matzc.github.io/teaching/stochastic/</guid>
-      <description>
-
-&lt;h2 id=&#34;course-introduction&#34;&gt;Course Introduction&lt;/h2&gt;
-
-&lt;p&gt;This module is aimed at final year undergraduate students, master students and PhD students who want to continue with higher studies in Stochastic Analysis or Mathematical Finance or who want to work in the financial industry.&lt;/p&gt;
-
-&lt;p&gt;It will introduce you some basic but important concepts, notations and theories of Stochastic Analysis and Mathematical Finance (e.g. Brownian Motion, Quadratic Variation, Stochastic Differential Equations, Ito’s Formula, Black-Scholes-Merton Formula, Financial Derivatives). This module will be helpful (if not necessary) for the pursuing of advanced Quantitative Finance modules.&lt;/p&gt;
-
-&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Introduction; Conditional Expectation&lt;/li&gt;
-&lt;li&gt;Brownian Motion&lt;/li&gt;
-&lt;li&gt;Quadratic Variation&lt;/li&gt;
-&lt;li&gt;Itô&amp;rsquo;s Integral&lt;/li&gt;
-&lt;li&gt;Itô&amp;rsquo;s Formula&lt;/li&gt;
-&lt;li&gt;SDE; Change of Probabilities&lt;/li&gt;
-&lt;li&gt;Girsanov Theorem; First Passage Time&lt;/li&gt;
-&lt;li&gt;A Model for Stocks; PDE&lt;/li&gt;
-&lt;li&gt;Risk-Neutral Pricing&lt;/li&gt;
-&lt;li&gt;Change of Numeraire&lt;/li&gt;
-&lt;li&gt;PDE and FK formula&lt;/li&gt;
-&lt;li&gt;Extensions and Hedging (Greeks)&lt;/li&gt;
-&lt;li&gt;American Options&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Stochastic Calculus for Finance II : Continuous-Time Models&lt;/em&gt;&lt;/strong&gt;, Steven Shreve&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Brownian Motion and Stochastic Calculus&lt;/em&gt;&lt;/strong&gt;, Ioannis Karatzas, Steven Shreve.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Methods of Mathematical Finance&lt;/em&gt;&lt;/strong&gt;, Ioannis Karatzas, Steven Shreve.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Martingale Methods in Financial Modelling&lt;/em&gt;&lt;/strong&gt;, Marek Musiela, Marek Rutkowski.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Paul Wilmott on Quantitative Finance&lt;/em&gt;&lt;/strong&gt;, , Second Edition, Paul Wilmott.&lt;/p&gt;&lt;/li&gt;
+      <guid>https://matzc.github.io/teaching/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Monte-Carlo method in finance and insurance&lt;/strong&gt; for 1st year graduate students at 2nd year undergraduate students at University of Maine, Le Mans, France, 2013&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Probability and Statistics&lt;/strong&gt;, &lt;strong&gt;Multivariable Functions&lt;/strong&gt; for 2nd year undergraduate students at University of Maine, Le Mans, France, 2013&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Advanced Financial Mathematics&lt;/strong&gt; for M.Sc. in Mathematics at National University of Singapore, Singapore, 2013-2014&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Financial Time Series: Theory and Computation&lt;/strong&gt; for M.Sc.in Quantitative Finance at National University of Singapore, Singapore, 2013-2014, 2014-2015, 2015-2016&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Interest Rate Models&lt;/strong&gt; for M.Sc. in Quantitative Finance at National University of Singapore, Singapore, 2013-2014, 2014-2015&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Interest Rate Theory and Credit Risk&lt;/strong&gt; for M.Sc. in Quantitative Finance at National University of Singapore, Singapore, 2015-2016, 2016-2017, 2018-2019&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Stochastic Analysis in Mathematical Finance&lt;/strong&gt; for M.Sc. in Mathematics and in Quantitative Finance at National University of Singapore, Singapore, 2014-2015, 2015-2016, 2016-2017, 2018-2019&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Mathematical Finance&lt;/strong&gt; for Undergraduates and M.Sc. in Mathematics and in Quantitative Finance at National University of Singapore, Singapore, 2016-2017, 2017-2018, 2018-2019&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TA in both &lt;strong&gt;Optimization&lt;/strong&gt; and &lt;strong&gt;Numerical Analysis&lt;/strong&gt; for 1st year students at ENSAE (Paris Graduate School of Economics, Statistics and Finance), France, 2009-2010&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>QF5201: Interest Rate Theory and Credit Risk</title>
-      <link>https://matzc.github.io/teaching/rate/</link>
+      <title>Seminars &amp; Conferences</title>
+      <link>https://matzc.github.io/conference/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://matzc.github.io/teaching/rate/</guid>
-      <description>
-
-&lt;h2 id=&#34;course-introduction&#34;&gt;Course Introduction&lt;/h2&gt;
-
-&lt;p&gt;Building on mathematical foundations of arbitrage pricing theory laid down in a first course
-on stochastic calculus for finance, this master level course addresses the modeling of the world’s bond
-markets, and the derivative securities associated with them. Bond markets are less transparent than
-equity markets, but have a total value about double that of equity markets, and a richer underlying
-structure.&lt;/p&gt;
-
-&lt;p&gt;The whole course can be divided into two parts: &lt;br&gt;&lt;/p&gt;
-
+      <guid>https://matzc.github.io/conference/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Credit risk&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Interest rate model&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;within each part, industrial knowledge, theory &amp;amp; model and real world practice will be covered. Students need to acquire the modeling and arbitrage of some fundamental industrial products.&lt;/p&gt;
-
-&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Default Probabilities&lt;/li&gt;
-&lt;li&gt;MM Thm &amp;amp; Merton’s Model&lt;/li&gt;
-&lt;li&gt;B-Cox &amp;amp; Leland-Toft Models&lt;/li&gt;
-&lt;li&gt;Reduced Form Model&lt;/li&gt;
-&lt;li&gt;Portfolio Credit Risk Model&lt;/li&gt;
-&lt;li&gt;Intro to Interest Rates&lt;/li&gt;
-&lt;li&gt;Interest Rates Derivatives&lt;/li&gt;
-&lt;li&gt;Spot Rate Models&lt;/li&gt;
-&lt;li&gt;HW and CIR Models&lt;/li&gt;
-&lt;li&gt;HJM and MLM Models&lt;/li&gt;
-&lt;li&gt;MLM Models and Review&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Introduction to Credit Risk Modeling by Christian Bluhm&lt;/em&gt;&lt;/strong&gt;, Ludger Overbeck and Christoph Wagner&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;An Elementary Introduction to Stochastic Interest Rate Modeling&lt;/em&gt;&lt;/strong&gt; by Nicolas Privault&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Interest Rate Modeling-Theory and Practice&lt;/em&gt;&lt;/strong&gt; by Lixin Wu&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Term-Structure Models&lt;/em&gt;&lt;/strong&gt; by Damir Filipovic&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Interest Rate Models-Theory and Practice&lt;/em&gt;&lt;/strong&gt; by Damiano Brigo and Fabio Mercurio&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Lecture notes&lt;/em&gt;&lt;/strong&gt; of Tomasz Bielecki, Monique Jeanblanc and Marek Rutkowski. Available &lt;a href=&#34;https://cel.archives-ouvertes.fr/cel-00398075&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The 6th Asian Quantitative Finance Conference&lt;/strong&gt;, China, Guangzhou, November 2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Workshop on Stochastic Analysis, Stochastic Control and New Developments&lt;/strong&gt;, China, Weihai, August 2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Workshop Mathematics of Behavioral Economics and Knightian Uncertainty in Financial Markets&lt;/strong&gt;, Germany, Bielefeld, May 2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Workshop on Stochastic Analysis&lt;/strong&gt;, Italy, Verona, May 2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Workshop on Stochastic Control and Related Issues Kansai University&lt;/strong&gt;, Japan, Osaka, March 2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Workshop on Stochastic Analysis applied to economics, finance and insurance&lt;/strong&gt;, Chile, Santiago, March 2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Workshop on BSDEs, SPDEs and their applications&lt;/strong&gt;, United Kingdom, Edinburgh, July 2017&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Conference Asymptotic Statistics of Stochastic Processes and Applications&lt;/strong&gt;, Russia, Peterhof, July 2017&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Workshop on Stochastic Analysis in Finance&lt;/strong&gt;, China, Hong Kong, May 2017&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;3rd Berlin-Princeton-Singapore Workshop on Quantitative Finance&lt;/strong&gt;, Germany, Berlin, April 2017&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The 5th Asian Quantitative Finance Conference&lt;/strong&gt;, South Korea, Seoul, April 2017&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Berlin-Princeton-Singapore Workshop on Quantitative Finance&lt;/strong&gt;, United State, Princeton, July 2016&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Journe´es de Probabilities&lt;/strong&gt; 2016, France, Le Mans, May 2016&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Frontiers in Stochastic Modelling for Finance&lt;/strong&gt;, Italy, Padua, February 2016&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The Fourth Asian Quantitative Finance Conference&lt;/strong&gt;, Japan, Osaka, February 2016&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;International Workshop on Analysis and Control of Stochastic Partial Differential Equations&lt;/strong&gt;, China, Shanghai, November 2015&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Singapore-Suzhou Workshop on Quantitative Finance&lt;/strong&gt;, China, Suzhou, July 2015.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;THE 7TH INTERNATIONAL SYMPOSIUM ON BACKWARD STOCHASTIC DIFFERENTIAL EQUATIONS&lt;/strong&gt;, Weihai, 22-27 June 2014 &lt;a href=&#34;http://211.86.56.196/BSDE2014/&#34;&gt;site&lt;/a&gt;, invited speaker.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Labex Louis Bachelier - SIAM-SMAI Conference on Financial Mathematics: Advanced Modeling and Numerical Methods&lt;/strong&gt;, Paris, 17-20 June 2014 &lt;a href=&#34;https://www.ceremade.dauphine.fr/ModelsRisks/conference.html&#34;&gt;site&lt;/a&gt;, invited speaker.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The First Berlin-Singapore Workshop on Quantitative Finance and Financial Risk&lt;/strong&gt;, Berlin, 21-24 May 2014 &lt;a href=&#34;http://cqf.nus.edu.sg/First_Berlin-Singapore_Workshop-QFFR2014/Overview.html&#34;&gt;site&lt;/a&gt;, invited speaker.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;IMS Summer Program: Nonlinear Expectations, Stochastic Calculus under Knightian Uncertainty, and Related Topics&lt;/strong&gt;, Singapore, Singapore, June-July 2013&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Summer program: Nonlinear Expectations, Stochastic Calculus under Knightian Uncertainty, and Related Topics&lt;/strong&gt;, Singapore, 3 June-12 July, 2013 site, invited speaker.
+The First Asian Quantitative Finance Conference, Singapore, NUS, 9-11 January 2013 &lt;a href=&#34;http://www2.ims.nus.edu.sg/Programs/013wnlinear/index.php&#34;&gt;site&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Fifth SMAI European Summer School In Financial Mathematics&lt;/strong&gt;, Paris, Ecole Polytechnique 27-31 August 2012 &lt;a href=&#34;http://cqf.nus.edu.sg/AQFC2013/aqfc2013.htm&#34;&gt;site&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Bachelier Finance Society 7th World Congress&lt;/strong&gt;, Sydney 12-22 June 2012 &lt;a href=&#34;http://www.bfs2012.com/&#34;&gt;site&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The Sixth Bachelier Colloquium&lt;/strong&gt;, Metabief-France 15-22 January 2012 &lt;a href=&#34;http://ykabanov.perso.math.cnrs.fr/Bachelier2012/programmes%20angl/programme2_B3_ang.html&#34;&gt;site&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Marie Curie Initial Training Network Spring School &amp;ldquo;Stochastic Analysis in Finance&lt;/strong&gt;, Roscoff-France 06-15 March 2012 &lt;a href=&#34;http://www.math.univ-brest.fr/perso/rainer.buckdahn/March%202012/Spring%20School%20mars%202012.html&#34;&gt;site&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Seminaire de Probabilite Institut de Recherche Mathematique de Rennes&lt;/strong&gt;, Rennes-France 06 February 2012 &lt;a href=&#34;http://irmar.univ-rennes1.fr/Equipes/aleatoire/Procstoc/seminaire/&#34;&gt;site&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sino-French Summer Institute: Stochastic Modeling and Applications&lt;/strong&gt;, Beijing-China, 13 Juin-1st July 2011 &lt;a href=&#34;http://www.amt.ac.cn/sino-french2010/index.htm&#34;&gt;site&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Membership of conference committees</title>
-      <link>https://matzc.github.io/conference/member/</link>
-      <pubDate>Fri, 19 Apr 2019 00:00:00 +0800</pubDate>
+      <title>Projects</title>
+      <link>https://matzc.github.io/project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>https://matzc.github.io/conference/member/</guid>
-      <description>&lt;p&gt;&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Member of organizing committee for &lt;strong&gt;Quantitative Finance&lt;/strong&gt;, 18 – 22 Mar, 2019 &amp;amp; 22 Jul – 31 Aug, 2019, held at Institute for Mathematical Sciences, National University of Singapore, Singapore.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Member of organizing committee for &lt;strong&gt;The 7th Asian Quantitative Finance Conference (AQFC)&lt;/strong&gt;, 02 – 05 July, 2019, held at Vietnam Institute for Advanced Study in Mathematics, Hanoi, Vietnam.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Member of organizing committee for &lt;strong&gt;Workshop Recent Developments in Mean-Field Game, Machine Learning and Quantitative Finance&lt;/strong&gt;, Vietnam, Tuan Chau, May 2019&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Member of organizing committee for &lt;strong&gt;Workshop on Data Science and Finance&lt;/strong&gt;, Cambodia, Siem Reap, February-March 2019&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Member of organizing committee for &lt;strong&gt;The Fourth Young Researchers Meeting on BSDEs, Nonlinear Expectations and Mathematical Finance&lt;/strong&gt;, China, Shanghai, April 2018&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Member of organizing committee for &lt;strong&gt;6th NUS-USPC Workshop on Machine Learning and FinTech, Singapore&lt;/strong&gt;, Singapore, April, 2018&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Member of organizing committee for &lt;strong&gt;Workshop on Stochastic Modelling in Finance, Cambodia, Siem Reap&lt;/strong&gt;, May 2017&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Member of organizing committee for &lt;strong&gt;Second Paris-Asia Conference in Quantitative Finance&lt;/strong&gt;, China, Suzhou, May 2017&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Member of organizing committee for &lt;strong&gt;2nd NUS-USPCWorkshop on New Challenges in Financial Risk Control&lt;/strong&gt;, Singapore, April 2017&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Member of organizing committee for &lt;strong&gt;5th NUS Workshop on Risk and Regulation&lt;/strong&gt;,Singapore, January 2017&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Member of organizing committee for &lt;strong&gt;Workshop USCP-NUS on Models and Numerical Methods for Financial Risk Management&lt;/strong&gt;, France, Paris, October 2016&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Member of organizing committee for &lt;strong&gt;2nd Risk Measures, XVA Analysis, Cost ofCapital &amp;amp; Central Counterparties Workshop&lt;/strong&gt;, China Shanghai, October 2016&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Member of organizing committee for &lt;strong&gt;1st Risk Measures, XVA Analysis, Cost of Capital &amp;amp; Central Counterparties&lt;/strong&gt;, Singapore, Singapore, April 2016&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Member of organizing committee for &lt;strong&gt;Second NUS-UParis Diderot Workshop on Quantitative Finance&lt;/strong&gt;, France, Paris, September 2015&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Member of organizing committee for &lt;strong&gt;Paris-Southeast Asia Conference in Mathematical Finance&lt;/strong&gt;, Cambodia, Siem Reap, February 2015&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <guid>https://matzc.github.io/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://matzc.github.io/post/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://matzc.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authors</title>
+      <link>https://matzc.github.io/author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://matzc.github.io/author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://matzc.github.io/slides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://matzc.github.io/slides/</guid>
+      <description></description>
     </item>
     
   </channel>

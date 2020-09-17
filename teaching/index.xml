@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses on Chao ZHOU</title>
@@ -39,7 +39,7 @@ Both the theory and the practice of the industry-standard pricing models are con
       
       <guid>https://matzc.github.io/teaching/stochastic/</guid>
       <description>Course Introduction This module is aimed at final year undergraduate students, master students and PhD students who want to continue with higher studies in Stochastic Analysis or Mathematical Finance or who want to work in the financial industry.
-It will introduce you some basic but important concepts, notations and theories of Stochastic Analysis and Mathematical Finance (e.g. Brownian Motion, Quadratic Variation, Stochastic Differential Equations, Ito’s Formula, Black-Scholes-Merton Formula, Financial Derivatives).</description>
+It will introduce you some basic but important concepts, notations and theories of Stochastic Analysis and Mathematical Finance (e.g. Brownian Motion, Quadratic Variation, Stochastic Differential Equations, Ito’s Formula, Black-Scholes-Merton Formula, Financial Derivatives). This module will be helpful (if not necessary) for the pursuing of advanced Quantitative Finance modules.</description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@ It will introduce you some basic but important concepts, notations and theories 
       
       <guid>https://matzc.github.io/teaching/rate/</guid>
       <description>Course Introduction Building on mathematical foundations of arbitrage pricing theory laid down in a first course on stochastic calculus for finance, this master level course addresses the modeling of the world’s bond markets, and the derivative securities associated with them. Bond markets are less transparent than equity markets, but have a total value about double that of equity markets, and a richer underlying structure.
-The whole course can be divided into two parts:  Credit risk</description>
+The whole course can be divided into two parts:   Credit risk</description>
     </item>
     
   </channel>

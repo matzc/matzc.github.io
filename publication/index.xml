@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Chao ZHOU</title>
@@ -18,10 +18,10 @@
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0800</pubDate>
       
       <guid>https://matzc.github.io/publication/preprints/</guid>
-      <description>Lifetime Ruin Problem Under High-watermark Fees and Drift Uncertainty, with J. Lee and X. Yu, arXiv:1909.01121, 2019. PDF. Submitted.
- Power Forward Performance in Semimartingale Markets with Stochastic Integrated Factors, with L. Bo and A. Capponi, arXiv:1811.11899, 2020. PDF. Submitted.
- BSDEs with weak reflections and partial hedging of American options, joint work with R. Dumitrescu, R. Elie and W. Sabbagh, arXiv:1708.05957, 2017. PDF. Submitted
- SelectNet: Self-Paced Learning for High-Dimensional Partial Differential Equations, with Y.</description>
+      <description>Lifetime Ruin Problem Under High-watermark Fee and Drift Uncertainty, with J. Lee and X. Yu, arXiv:1909.01121, 2019. PDF. Submitted.
+  Power Forward Performance in Semimartingale Markets with Stochastic Integrated Factors, with L. Bo and A. Capponi, arXiv:1811.11899, 2020. PDF. Submitted.
+  BSDEs with weak reflections and partial hedging of American options, joint work with R. Dumitrescu, R. Elie and W. Sabbagh, arXiv:1708.05957, 2017. PDF. Submitted
+  SelectNet: Self-Paced Learning for High-Dimensional Partial Differential Equations, with Y.</description>
     </item>
     
     <item>
@@ -30,9 +30,8 @@
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0800</pubDate>
       
       <guid>https://matzc.github.io/publication/phd/</guid>
-      <description>
- Advisor: Professor Anis MATOUSSI.
- Paper: Model Uncertainty in Finance and Second Order Backward Stochastic Differential Equations PDF
+      <description>  Advisor: Professor Anis MATOUSSI.
+  Paper: Model Uncertainty in Finance and Second Order Backward Stochastic Differential Equations PDF
   </description>
     </item>
     
