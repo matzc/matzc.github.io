@@ -18,7 +18,7 @@
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0800</pubDate>
       
       <guid>https://matzc.github.io/publication/preprints/</guid>
-      <description>Animation for SelectNet vs other method:
+      <description>Animation for SelectNet method:
 Left: Green: SelectNet; Red: residual; Blue: solution error
 Right: Red: residual v.s. iterations; Blue: solution error v.s. iterations
   SelectNet: Self-Paced Learning for High-Dimensional Partial Differential Equations, with Y. Gu and H. Yang, arXiv:2001.04860, 2020. PDF. Submitted.
