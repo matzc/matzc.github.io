@@ -7,16 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Chao ZHOU. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 04 May 2020 00:00:00 +0800</lastBuildDate><atom:link href="https://matzc.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 May 2020 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://matzc.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Preprints</title>
       <link>https://matzc.github.io/publication/preprints/</link>
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0800</pubDate>
       
       <guid>https://matzc.github.io/publication/preprints/</guid>
-      <description>Lifetime Ruin Problem Under High-watermark Fees and Drift Uncertainty, with J. Lee and X. Yu, arXiv:1909.01121, 2019. PDF. Revised and resubmitted.
+      <description>Animation for SelectNet vs other method:
+Left: Green: SelectNet; Red: residual; Blue: solution error Right: Red: residual v.s. iterations; Blue: solution error v.s. iterations
+  SelectNet: Self-Paced Learning for High-Dimensional Partial Differential Equations, with Y. Gu and H. Yang, arXiv:2001.04860, 2020. PDF. Submitted.
   Power Forward Performance in Semimartingale Markets with Stochastic Integrated Factors, with L. Bo and A. Capponi, arXiv:1811.11899, 2020. PDF. Submitted.
-  BSDEs with weak reflections and partial hedging of American options, joint work with R. Dumitrescu, R. Elie and W. Sabbagh, arXiv:1708.05957, 2017. PDF. Submitted</description>
+  BSDEs with weak reflections and partial hedging of American options, joint work with R.</description>
     </item>
     
     <item>
