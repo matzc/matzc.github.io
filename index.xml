@@ -33,7 +33,11 @@
       <pubDate>Mon, 04 May 2020 00:00:00 +0800</pubDate>
       
       <guid>https://matzc.github.io/publication/</guid>
-      <description>&lt;ol&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Animation for SelectNet method:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/50096157/93667843-7e1ed680-fabb-11ea-8da4-b13f7d7e5473.gif&#34; alt=&#34;Animation for SelectNet method:&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Left:&lt;/strong&gt; Green: SelectNet; Red: residual; Blue: solution error&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Right:&lt;/strong&gt; Red: residual v.s. iterations; Blue: solution error v.s. iterations&lt;/p&gt;
+&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;D. Possamaï and C. Zhou (2013). &lt;strong&gt;Second Order Backward Stochastic Differential Equations with Quadratic Growth&lt;/strong&gt;. Stochastic Processes and their Applications, 123(10):3770-3799. arXiv:1201.1050v2 &lt;a href=&#34;https://arxiv.org/pdf/1201.1050v2.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
@@ -75,25 +79,46 @@
 &lt;p&gt;A. Popier and C. Zhou (2018). &lt;strong&gt;Second order BSDE under monotonicity condition and liquidation problem under uncertainty&lt;/strong&gt;. The Annals of Applied Probability, 29(3), 1685-1739, arXiv:1712.10253v1. &lt;a href=&#34;http://arxiv.org/pdf/1712.10253.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Bouchard, B., Loeper, G., Soner, H. M., &amp;amp; Zhou, C. (2019). &lt;strong&gt;Second-Order Stochastic Target Problems with Generalized Market Impact&lt;/strong&gt;. SIAM Journal on Control and Optimization, 57(6), 4125-4149. &lt;a href=&#34;https://arxiv.org/pdf/1806.08533.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bouchard, B., Loeper, G., Soner, H. M. and C. Zhou. &lt;strong&gt;Second order stochastic target problems with generalized market impact&lt;/strong&gt;, SIAM Journal on Control and Optimization, 2019, 57(6):4125-4149. &lt;a href=&#34;https://arxiv.org/pdf/1806.08533&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Zhang, W., &amp;amp; Zhou, C. (2019). &lt;strong&gt;Deep learning algorithm to solve portfolio management with proportional transaction cost&lt;/strong&gt;. In CIFEr 2019 - IEEE Conference on Computational Intelligence for Financial Engineering and Economics, 2019, &lt;a href=&#34;https://ieeexplore.ieee.org/document/8759056&#34;&gt;available online&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Zhang, W. and C. Zhou. &lt;strong&gt;Deep learning algorithm to solve portfolio management with pro- portional transaction cost&lt;/strong&gt;, In CIFEr 2019 - IEEE Conference on Computational Intelligence for Financial Engineering and Economics, 2019, &lt;a href=&#34;https://ieeexplore.ieee.org/document/8759056&#34;&gt;available online&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Santibáñez, N. H., Possamaï, D., &amp;amp; Zhou, C. (2020). &lt;strong&gt;Bank monitoring incentives under moral hazard and adverse selection&lt;/strong&gt;. Journal of Optimization Theory and Applications, 184(3):988-1035. &lt;a href=&#34;https://arxiv.org/pdf/1701.05864.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hernandez Santibanez, N., Possama ̈ı, D. and C. Zhou. Bank monitoring incentives under moral hazard and adverse selection, Journal of Optimization Theory and Applications, 2020, 184(3):988-1035. &lt;a href=&#34;https://arxiv.org/pdf/1701.05864&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Lee, J., Sturm, S., &amp;amp; Zhou, C. (2020). &lt;strong&gt;A Risk-Sharing Framework of Bilateral Contracts&lt;/strong&gt;. SIAM Journal on Financial Mathematics, 11(2), 385–410. &lt;a href=&#34;https://arxiv.org/pdf/1901.03874.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lee, J., Sturm, S. and C. Zhou. A risk-sharing framework of bilateral contracts, SIAM Journal on Financial Mathematics, 2020, 11(2):385-410. &lt;a href=&#34;https://arxiv.org/pdf/1901.03874&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Lin, Q., Sun, X. &amp;amp; Zhou, C. (2020). &lt;strong&gt;Horizon-unbiased Investment with Ambiguity&lt;/strong&gt;. Journal of Economic Dynamics and Control, 114, 103896. &lt;a href=&#34;https://doi.org/10.1016/j.jedc.2020.103896&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lin, Q., Sun, X. and C. Zhou. Horizon-unbiased investment with ambiguity, Journal of Economic Dynamics and Control, 2020, 114, 103896. &lt;a href=&#34;https://arxiv.org/pdf/1904.09379&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Chow, Y., Yu, X. &amp;amp; Zhou, C. (2020). &lt;strong&gt;On dynamic programming principle for stochastic control under expectation constraints&lt;/strong&gt;. Journal of Optimization Theory and Applications, 185, 803–818(2020). &lt;a href=&#34;https://link.springer.com/article/10.1007/s10957-020-01673-2&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Chow, Y., Yu, X. and C. Zhou. On dynamic programming principle for stochastic control under expectation constraints, Journal of Optimization Theory and Applications, 2020, 185:803-818. &lt;a href=&#34;https://arxiv.org/pdf/1802.03954&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Lee, J. &amp;amp; Zhou, C. (2020) &lt;strong&gt;Binary Funding Impacts in Derivative Valuation&lt;/strong&gt;. Mathematical Finance, published online. &lt;a href=&#34;https://arxiv.org/pdf/1703.00259&#34;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Lee, J., Yu, X. and C. Zhou. Lifetime ruin problem under high-watermark fees and drift uncertainty, Applied Mathematics and Optimization, 2020, online &lt;a href=&#34;https://doi.org/10.1007/s00245-&#34;&gt;https://doi.org/10.1007/s00245-&lt;/a&gt; 020-09728-6. &lt;a href=&#34;https://scholarbank.nus.edu.sg/rest/bitstreams/1367943/retrieve&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lee, J. and C. Zhou. Binary funding impacts in derivative valuation, Mathematical Finance, 2021, 31(1):242-278. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/mafi.12287&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ankirchner, S., Blanchet-Scalliet, C., Kazi-Tani, N. and C. Zhou. Gambling for resur- rection and the heat equation on a triangle, Applied Mathematics and Optimization, 2021, &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02405853/file/Ankirchner%2C%20Blanchet-Scalliet%2C%20Kazi-Tani%2C%20Zhou.pdf&#34;&gt;available online&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Matoussi, A., Possamaï  D. and C. Zhou. Corrigendum for ”Second-order reflected back- ward stochastic differential equations” and ”Second-order BSDEs with general reflection and game options under uncertainty”, 2021, arXiv:1706.08588. The Annals of Applied Probability, to appear. &lt;a href=&#34;https://arxiv.org/pdf/1706.08588&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Horst, U., Xia, X. and C. Zhou. Portfolio liquidation under factor uncertainty, 2021, arXiv:1909.00748. The Annals of Applied Probability, to appear. &lt;a href=&#34;https://arxiv.org/pdf/1909.00748&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Jiao, Y., Ma, C., Scotti, S. and C. Zhou. The alpha-Heston stochastic volatility model, 2021. arXiv:1812.01914. Mathematical Finance, to appear. &lt;a href=&#34;https://arxiv.org/pdf/1812.01914&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pham, H., Wei, X. and C. Zhou. Portfolio diversification and model uncertainty: a robust dynamic mean-variance approach, 2021. arXiv:1809.01464. Mathematical Finance, to appear. &lt;a href=&#34;https://arxiv.org/pdf/1809.01464&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gu, Y., Yang, H. and C. Zhou. SelectNet: Self-paced learning for high-dimensional partial differential equations, 2021, arXiv:2001.04860. Journal of Computational Physics, to appear. &lt;a href=&#34;https://arxiv.org/pdf/2001.04860&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 </description>
