@@ -33,8 +33,7 @@
       <pubDate>Mon, 04 May 2020 00:00:00 +0800</pubDate>
       
       <guid>https://matzc.github.io/publication/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Animation for SelectNet method (27. Gu, Yang and Zhou, JCP 2021)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0021999121003399&#34;&gt;Gu, Yang and Zhou JCP 2021&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Animation for SelectNet method&lt;/strong&gt; (&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0021999121003399&#34;&gt;Gu, Yang and Zhou JCP 2021&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/50096157/93667843-7e1ed680-fabb-11ea-8da4-b13f7d7e5473.gif&#34; alt=&#34;Animation for SelectNet method:&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Left:&lt;/strong&gt; Green: SelectNet; Red: residual; Blue: solution error&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Right:&lt;/strong&gt; Red: residual v.s. iterations; Blue: solution error v.s. iterations&lt;/p&gt;
