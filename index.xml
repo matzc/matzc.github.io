@@ -6,22 +6,31 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>©2019 Chao ZHOU. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://matzc.github.io/talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0800</pubDate>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
       <guid>https://matzc.github.io/talk/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Students List</title>
+      <link>https://matzc.github.io/students/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://matzc.github.io/students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Research Fellows</title>
       <link>https://matzc.github.io/researcher/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0800</pubDate>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://matzc.github.io/researcher/</guid>
       <description></description>
@@ -30,7 +39,7 @@
     <item>
       <title>Publications</title>
       <link>https://matzc.github.io/publication/</link>
-      <pubDate>Mon, 04 May 2020 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://matzc.github.io/publication/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Animation for SelectNet method&lt;/strong&gt; (&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0021999121003399&#34;&gt;Gu, Yang and Zhou JCP 2021&lt;/a&gt;)&lt;/p&gt;
@@ -43,7 +52,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;A. Matoussi, D. Possamaï and C. Zhou (2013). &lt;strong&gt;Second Order Reflected Backward Stochastic Differential Equations&lt;/strong&gt;. The Annals of Applied Probability, 23(6):2420-2457. arXiv:1201.0746v1 &lt;a href=&#34;http://arxiv.org/pdf/1201.0746v1.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;2&amp;rsquo;. Matoussi, A., Possamaï, D. and C. Zhou (2017). Corrigendum for &lt;strong&gt;&amp;ldquo;Second-order reflected backward stochastic differential equations&amp;rdquo;&lt;/strong&gt; and &lt;strong&gt;&amp;ldquo;Second-order BSDEs with general reflection and game options under uncertainty&amp;rdquo;&lt;/strong&gt;, arXiv preprint, arXiv:1706.08588, &lt;a href=&#34;https://arxiv.org/pdf/1706.08588.pdf&#34;&gt;PDF&lt;/a&gt;, submitted.&lt;/p&gt;
+&lt;p&gt;2&#39;. Matoussi, A., Possamaï, D. and C. Zhou (2017). Corrigendum for &lt;strong&gt;&amp;ldquo;Second-order reflected backward stochastic differential equations&amp;rdquo;&lt;/strong&gt; and &lt;strong&gt;&amp;ldquo;Second-order BSDEs with general reflection and game options under uncertainty&amp;rdquo;&lt;/strong&gt;, arXiv preprint, arXiv:1706.08588, &lt;a href=&#34;https://arxiv.org/pdf/1706.08588.pdf&#34;&gt;PDF&lt;/a&gt;, submitted.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;A. Matoussi, D. Possamaï and C. Zhou (2015). &lt;strong&gt;Robust Utility Maximization in Non-dominated Models with 2BSDEs&lt;/strong&gt;. Mathematical Finance, 25(2): 258-287. arXiv:1201.0769v2 &lt;a href=&#34;https://arxiv.org/pdf/1201.0769v2.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
@@ -125,18 +134,9 @@
     </item>
     
     <item>
-      <title>Students List</title>
-      <link>https://matzc.github.io/students/</link>
-      <pubDate>Sat, 08 Feb 2020 00:00:00 +0800</pubDate>
-      
-      <guid>https://matzc.github.io/students/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Courses</title>
       <link>https://matzc.github.io/teaching/</link>
-      <pubDate>Fri, 19 Apr 2019 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://matzc.github.io/teaching/</guid>
       <description>&lt;ul&gt;
@@ -174,7 +174,7 @@
     <item>
       <title>Seminars &amp; Conferences</title>
       <link>https://matzc.github.io/conference/</link>
-      <pubDate>Fri, 19 Apr 2019 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://matzc.github.io/conference/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
@@ -271,7 +271,7 @@ The First Asian Quantitative Finance Conference, Singapore, NUS, 9-11 January 20
     <item>
       <title>Projects</title>
       <link>https://matzc.github.io/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://matzc.github.io/project/</guid>
       <description></description>
@@ -280,7 +280,7 @@ The First Asian Quantitative Finance Conference, Singapore, NUS, 9-11 January 20
     <item>
       <title>Posts</title>
       <link>https://matzc.github.io/post/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://matzc.github.io/post/</guid>
       <description></description>

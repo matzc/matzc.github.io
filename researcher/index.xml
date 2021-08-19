@@ -7,15 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Chao ZHOU. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0800</lastBuildDate>
-    
-	<atom:link href="https://matzc.github.io/researcher/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://matzc.github.io/researcher/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yiqi GU</title>
       <link>https://matzc.github.io/researcher/yiqi/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0800</pubDate>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://matzc.github.io/researcher/yiqi/</guid>
       <description>Bio Currently, I am a Research Fellow at National University of Singapore, working with the Department of Mathematics. My research focuses on deep learning-based methods for partial differential equations.
@@ -25,7 +21,7 @@ I received my Ph.D. in 2019 at Purdue University (in US) on my thesis about spec
     <item>
       <title>Guanxing FU</title>
       <link>https://matzc.github.io/researcher/guanxing/</link>
-      <pubDate>Tue, 18 Feb 2020 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://matzc.github.io/researcher/guanxing/</guid>
       <description>Bio I am an Assistant Professor in The Hong Kong Polytechnic University, see my website
