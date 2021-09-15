@@ -9,14 +9,34 @@
     <copyright>©2019 Chao ZHOU. All Rights Reserved.</copyright>
     <lastBuildDate>Wed, 18 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://matzc.github.io/students/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hanxiao WANG</title>
+      <link>https://matzc.github.io/students/hanxiao/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://matzc.github.io/students/hanxiao/</guid>
+      <description>My Info Currently, I am a Research Fellow at National University of Singapore, working with the Department of Mathematics. My research focuses on stochastic control, stochastic analysis and mathematical finance.
+I received my Ph.D. in 2020 at Fudan University (in China) on my thesis about backward stochastic Volterra integral equations and stochastic linear-quadratic optimal control problems. Before I started my Ph.D. program, I had received a Bachelor degree in Jilin University (in China).</description>
+    </item>
+    
+    <item>
+      <title>Huafu LIAO</title>
+      <link>https://matzc.github.io/students/huafu/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://matzc.github.io/students/huafu/</guid>
+      <description>My Info I am currently a Research Fellow in National University of Singapore. My research interests are in credit risk, optimal porfolio selection with regime switching, and neural network.
+I received my Ph.D Degree in Mathematics from University of Science and Technology of China in 2019. My Ph.D thesis studies a class of dynamical models on credit portfolio with regime-switching and default contagion, utilizing recursive HJB system and BSDE with jumps.</description>
+    </item>
+    
+    <item>
       <title>Jiayu SHI</title>
       <link>https://matzc.github.io/students/jiayu/</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://matzc.github.io/students/jiayu/</guid>
       <description>My Info I am a Ph.D. student at the National University of Singapore, under the supervision of Prof. ZHOU Chao and Prof. TOH Kim-Chuan.
-  Email: shi.jiayu@u.nus.edu
   CV
+  Email: shi.jiayu@u.nus.edu
   </description>
     </item>
     
